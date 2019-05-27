@@ -1,9 +1,10 @@
 # NYU High Performance Computing (HPC)
 
 An example of how I use NYU's high performance computing system from on and off campus.
-- Logging in, submitting/monitoring/canceling normal sbatch jobs
-- Using Jupyter notebooks
-- Secure copying
+- Logging in, submitting/monitoring/canceling normal sbatch jobs  
+- Using Jupyter notebooks  
+- Secure copying  
+This repository contains .md files with instructions as well as sample .sbatch files.
 
 ### Other Resources
 
