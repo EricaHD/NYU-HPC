@@ -1,9 +1,9 @@
 # Logging in and sbatch jobs
 
 Login
-> ssh NETID@gw.hpc.nyu.edu
-> PASSWORD
-> ssh prince.hpc.nyu.edu
+> ssh NETID@gw.hpc.nyu.edu  
+> PASSWORD  
+> ssh prince.hpc.nyu.edu  
 > PASSWORD
 
 Submitting a job
