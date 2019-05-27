@@ -3,7 +3,7 @@
 ### Window 1
 
 Login
-> ssh NETID@prince.hpc.nyu.edu
+> ssh NETID@prince.hpc.nyu.edu  
 > PASSWORD
 
 Submitting a job
