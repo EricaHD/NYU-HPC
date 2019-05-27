@@ -23,8 +23,8 @@ Setting the port
 
 ### Browser
 
-Navigate to second URL in .out file  
-And use Jupyter notebook!
+Navigate to second URL in .out file and use Jupyter notebook!  
+If Jupyter notebook asks for a password, cancel it and try again to get a different port
 
 ### Window 1
 
