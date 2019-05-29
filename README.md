@@ -11,4 +11,4 @@ This repository contains .md files with instructions as well as sample .sbatch f
 
 For the official wiki, visit https://wikis.nyu.edu/display/NYUHPC/Clusters+-+Prince.
 
-For a more complete tutorial and more introductory information (i.e. how to get an account, the file system, and configuring a tunnel for the first time), visit https://github.com/cvalenzuela/hpc.
+For a more complete tutorial including introductory information (i.e. how to get an account, the file system, and configuring a tunnel for the first time), visit https://github.com/cvalenzuela/hpc.
